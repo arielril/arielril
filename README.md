@@ -97,11 +97,5 @@
 
 <br/>  
 
-
-## Readme Powered By  
-[Rishav Anand](https://github.com/rishavanand) -- [Profilinator](https://profilinator.rishav.dev/)  
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
