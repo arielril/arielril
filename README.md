@@ -6,10 +6,13 @@
 ### <div align="center">I'm Ariel a starter ethical hacker, software developer, and an always-on student 🤓</div>  
   
 
-- 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi)   
-  
+- 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi)
 
-- 🌱 I’m currently learning how to be an Ethical Hacker and future pentester  
+
+- 📚 I'm currently studying Computer Science college at [Pucrs](https://www.pucrs.br)
+
+
+- 🌱 I’m currently learning how to be an Ethical Hacker and future pentester
   
 
 - ❓ Ask me about anything, if I can't answer immediately I will learn it to help you 😆  
