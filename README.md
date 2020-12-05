@@ -67,7 +67,7 @@ Here is a list of technologies that I already used and technologies that I am us
   <tr>
     <td valign="top" width="50%">
 
-### Connect With Me
+<h3> Connect With Me </h3>
 <div align="center">
 <a href="https://github.com/arielril" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,9 +81,13 @@ Here is a list of technologies that I already used and technologies that I am us
 </div>  
 </td>
 <td valign="top" width="50%">
+  
+  <h3> Github Stats </h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielril&show_icons=true&count_private=true&theme=dark" />      
 
-### Github Stats
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=arielril&show_icons=true&count_private=true)</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
