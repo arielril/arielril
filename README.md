@@ -2,9 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 </div> 
   
-
-### <div align="center">I'm Ariel a starter ethical hacker, software developer, and an always-on student 🤓</div>  
-  
+<div align="center">
+  <h3 align="center"> I'm Ariel a starter ethical hacker, software developer, and an always-on student 🤓 </h3>
+</div>  
 
 - 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi)
 
