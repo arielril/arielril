@@ -2,11 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 </div> 
   
-<div align="center">
+<div>
   <h3 align="center"> I'm Ariel a starter ethical hacker, software developer, and an always-on student 🤓 </h3>
 </div>  
 
-- 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi)
+- 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi) as Cybersecurity Analyst
 
 
 - 📚 I'm currently studying Computer Science college at [Pucrs](https://www.pucrs.br)
@@ -18,7 +18,7 @@
 - ❓ Ask me about anything, if I can't answer immediately I will learn it to help you 😆  
   
 
-- ⚡ Fun fact: I am known as the Tech Lead Intern  
+<!-- - ⚡ Fun fact: I am known as the Tech Lead Intern -->
   
 
 <br/>  
@@ -65,7 +65,7 @@ Here is a list of technologies that I already used and technologies that I am us
 
 <table><tr><td valign="top" width="50%">
 
-### Connect With Me  
+<h3> Connect With Me </h3>
 <div align="center">
 <a href="https://github.com/arielril" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
