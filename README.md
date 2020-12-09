@@ -75,8 +75,6 @@ Here is a list of technologies that I already used and technologies that I am us
   <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
 </a>
   
-<script src="https://tryhackme.com/badge/84805"></script>
-  
 </div>  
 </td>
 <td valign="top" width="50%">
