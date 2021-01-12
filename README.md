@@ -3,7 +3,7 @@
 </div> 
   
 <div>
-  <h3 align="center"> I'm Ariel a starter ethical hacker, software developer, and an always-on student 🤓 </h3>
+  <h3 align="center"> I'm Ariel a rookie ethical hacker, software developer, and an always-on student 🤓 </h3>
 </div>  
 
 - 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi) as Cybersecurity Analyst
