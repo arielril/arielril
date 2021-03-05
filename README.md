@@ -6,16 +6,17 @@
   <h3 align="center"> I'm Ariel a rookie ethical hacker, software developer, and an always-on student 🤓 </h3>
 </div>  
 
-- 👨‍💻 I’m currently working @ [Phi Pagamentos](https://github.com/somosphi) as Cybersecurity Analyst
-
+- 👨‍💻 I’m currently working @ [HypeFlame](https://www.hypeflame.com.br) as Cyber Security Analyst
 
 - 📚 I'm currently studying Computer Science college at [Pucrs](https://www.pucrs.br)
 
-
-- 🌱 I’m currently learning how to be an Ethical Hacker and future pentester
+- 🌱 I’m currently studing for OSCP exam
   
-
 - ❓ Ask me about anything, if I can't answer immediately I will learn it to help you 😆    
+
+- 🤓 I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
+
+<script src="https://www.hackthebox.eu/badge/355336"></script>
 
 <br/>  
 
