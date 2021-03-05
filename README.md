@@ -16,7 +16,7 @@
 
 - 🤓 I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
 
-<script src="https://www.hackthebox.eu/badge/355336"></script>
+
 
 <br/>  
 
@@ -98,3 +98,4 @@ Here is a list of technologies that I already used and technologies that I am us
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<script src="https://www.hackthebox.eu/badge/355336"></script>
