@@ -3,14 +3,16 @@
 </div> 
   
 <div>
-  <h3 align="center"> I'm Ariel a rookie ethical hacker, software developer, and an always-on student 🤓 </h3>
+  <h3 align="center"> I'm Ariel a security researcher, software developer, and an always-on student 🤓 </h3>
 </div>  
 
 - 👨‍💻 I’m currently working @ [HypeFlame](https://www.hypeflame.com.br) as Cyber Security Analyst
 
 - 📚 I'm currently studying Computer Science college at [Pucrs](https://www.pucrs.br)
 
-- 🌱 I’m currently studing for OSCP exam
+- <s>🌱 I’m currently studing for OSCP exam</s>
+
+- 🔥 <b>I'm OSCP Certifified!</b>
   
 - ❓ Ask me about anything, if I can't answer immediately I will learn it to help you 😆    
 
