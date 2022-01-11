@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working @ [HypeFlame](https://www.hypeflame.com.br) as Cyber Security Analyst
 
-- 📚 I'm currently studying Computer Science college at [Pucrs](https://www.pucrs.br)
+- 📚 I'm majoring in Computer Science at [Pucrs](https://www.pucrs.br)
 
 - <s>🌱 I’m currently studing for OSCP exam</s>
 
