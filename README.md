@@ -3,7 +3,7 @@
 </div> 
   
 <div>
-  <h3 align="center"> I'm Ariel a security researcher, software developer, and an always-on student 🤓 </h3>
+  <h3 align="center"> I'm Ariel a cyber security researcher, software developer, and an always-on student 🤓 </h3>
 </div>  
 
 - 👨‍💻 I’m currently working @ [HypeFlame](https://www.hypeflame.com.br) as Cyber Security Analyst
