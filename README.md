@@ -18,7 +18,9 @@
 
 - 🤓 I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
 
+<div>
 <script src="https://www.hackthebox.eu/badge/355336"></script>
+</div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c1d39aaa-4767-42ab-9c59-65369587f8dc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <br/>  
