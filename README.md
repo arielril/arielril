@@ -74,7 +74,7 @@
 
 <br/>  
  
-## 
+<hr>
   
 <div align="center">
 <a href="https://github.com/arielril" target="_blank">
