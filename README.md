@@ -24,7 +24,8 @@
 <br/>  
 
 
-## My Skill Set  
+<h2>My Skill Set</h2>
+<hr>  
 
 <div align="center">  
 <img style="margin: 10px; background-color: gray;" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
