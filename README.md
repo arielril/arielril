@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
-</div> 
   
 <div>
-  <h3 align="center"> I'm Ariel a cyber security researcher, software developer, and an always-on student 🤓 </h3>
+  <h3 align="center"> Heyy! I'm Ariel a cyber security researcher (OSCP Certified), software developer, and an always-on student 🤓 </h3>
 </div>  
 
 - 👨‍💻 I’m currently working @ [Agi](https://agi.com.br) as Cyber Security Analyst
