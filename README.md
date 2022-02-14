@@ -1,17 +1,20 @@
-  
-<div>
-  <h3 align="center"> Heyy! I'm Ariel a cyber security researcher (OSCP Certified), software developer, and an always-on student 🤓 </h3>
-</div>  
+##  Heyy! I'm Ariel a cyber security researcher (OSCP Certified), software developer, and an always-on student 🤓
 
 - 👨‍💻 I’m currently working @ [Agi](https://agi.com.br) as Cyber Security Analyst
 
 - 📚 BSc. in Computer Science at [Pucrs](https://www.pucrs.br)
 
-- 🔥 <u>OSCP Certifified!</u>
+- 🔥 <b>OSCP Certifified!</b>
   
 - ❓ Ask me about anything, if I can't answer immediately I will learn it to help you 😆    
 
 - 🤓 I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
+
+<div align="center">
+  <a href="https://github.com/arielril">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielril&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielril&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div>
 <script src="https://www.hackthebox.eu/badge/355336"></script>
@@ -22,8 +25,6 @@
 
 
 ## My Skill Set  
-
-Here is a list of technologies that I already used and technologies that I am using.
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
@@ -73,12 +74,8 @@ Here is a list of technologies that I already used and technologies that I am us
 
 <br/>  
  
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-<h3> Connect With Me </h3>
+## 
+  
 <div align="center">
 <a href="https://github.com/arielril" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
@@ -90,25 +87,5 @@ Here is a list of technologies that I already used and technologies that I am us
   <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
 </a>
   
-</div>  
-</td>
-<td valign="top" width="50%">
+</div>
   
-  <h3> Github Stats </h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielril&show_icons=true&count_private=true&theme=dark" />      
-
-</td>
-</tr>
-</table>  
-
-<br/>  
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arielril&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
