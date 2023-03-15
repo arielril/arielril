@@ -4,6 +4,8 @@
 
 - 📚 BSc. in Computer Science at [Pucrs](https://www.pucrs.br)
 
+- 📚 Masters student in Computer Science at [Pucrs](https://www.pucrs.br)
+
 - 🔥 <b>OSCP Certifified!</b>
   
 - ❓ Ask me about anything, if I can't answer immediately I will learn it to help you 😆    
