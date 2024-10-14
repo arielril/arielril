@@ -1,6 +1,6 @@
 ##  Hey! I'm Ariel a cyber security researcher (OSCP Certified), software developer, and an always-on student 🤓
 
-- 👨‍💻 I’m currently working @ [PagoNxt](https://github.com/pagonxt) as Cyber Security Analyst
+- 👨‍💻 I’m currently working @ING as Cloud Security Engineer
 
 - 📚 I have a BSc. degree in Computer Science at [Pucrs](https://www.pucrs.br)
 
