@@ -85,5 +85,4 @@
 
 ### Support Me
 
-</br>
 <a href="https://www.buymeacoffee.com/arielril"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
