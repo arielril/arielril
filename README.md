@@ -6,11 +6,11 @@ Cloud Security & Software Engineer
 * OSCP certified
 * API Penetration Testing certified
 * Microsoft Azure: Security Best Practices certified
-* BSc. degree in Computer Science @PUCRS
+* BSc. degree in Computer Science [@PUCRS](https://pucrs.br)
 * 🌍  I'm based in Somewhere
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ariel-ril)
 * 🧠  I'm learning Kubernetes Penetration Testing and Rust
-* ⚡  I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
+* ⚡   I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
 
 <a href="https://www.credential.net/1d3500b4-c874-407e-bbb7-da165e197dea#acc.ugBfG7Rk">
    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51729605" width=75>
