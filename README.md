@@ -12,9 +12,14 @@ Cloud Security & Software Engineer
 * 🧠  I'm learning Kubernetes Penetration Testing and Rust
 * ⚡  I'm obsessed with [HackTheBox](https://www.hackthebox.eu/) platform for my studies. My user is [wh04m1at21](https://app.hackthebox.eu/profile/355336)
 
+<a href="https://www.credential.net/1d3500b4-c874-407e-bbb7-da165e197dea#acc.ugBfG7Rk">
+   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51729605" width=75>
+</a>
+<a href="https://www.github.com/arielril" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/github/followers/arielril?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-<a href="https://www.github.com/arielril" target="_blank" rel="noreferrer"><img
-   src="https://img.shields.io/github/followers/arielril?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
    
 ### Skills 
 
